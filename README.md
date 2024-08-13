@@ -1,2 +1,2 @@
 # chatbot_project
-สวีสดีจ้า
+sawat dee krub 
